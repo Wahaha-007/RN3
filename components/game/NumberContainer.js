@@ -12,6 +12,8 @@ function NumberContainer({children}) {
 
 export default NumberContainer;
 
+// On android screen inc. status bar
+
 const styles = StyleSheet.create({
   container: {
     borderWidth: 4,
